@@ -4,5 +4,6 @@ Currently implemented:
 
 Upcoming Features:
   - History
+  - Error Highlighting
   - Cheat Sheet
   - input array for creating a set of Data a specific RegExp needs to match!
